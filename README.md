@@ -16,7 +16,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This task invovles the Computer vision library commonly referred as OpenCV in the implementing new step of the Project. In this task we used OpenCV to find the Age and Gender of the person using webcam feed.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **4) Task 5: B4** \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This task also invovled OpenCV and was similiar in application to the Task 4 : B4 but instead of a webcam we trained our model on the Youtube Video to detect Age and Gender.Models for the same can be downloaded from the net(modesl required are age-deploy,age-net,gender-deploy,gender-net,opencv-face-detector and opencv_face_detector_uint8).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This task also invovled OpenCV and was similiar in application to the Task 4 : B4 but instead of a webcam we trained our model on the Youtube Video to detect Age and Gender.Models for the same can be downloaded from the net(models required are age-deploy,age-net,gender-deploy,gender-net,opencv-face-detector and opencv_face_detector_uint8).
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_**Overall Work Done in Phase 2**: Using OpenCV to detect faces and using which predicting their age and gender.The Notebooks for the same as listed in the folders named Task4_B3 and Task5_B4 in the reposistory._
 
